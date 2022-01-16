@@ -127,12 +127,4 @@ const smallDrink = new Drink('🍹', 'Coco', 299, 'small');
 const cart = new Cart();
 cart.add(hotDog);
 cart.add(smallDrink);
-
 console.log(cart);
-
-
-
-
-
-
-
